@@ -7,7 +7,7 @@ The purpose of this project was to use web scraping, webpage development and dat
 BeautifulSoup using Splinter web scraper and Python Flask server with MongoDB for collecting, storing and viewing NASA mars data.
 
 * [Flask App](https://github.com/TomCallegari/MarsPy/blob/master/app.py)
-* [BeautifulSoup / Splinter website scraper](https://github.com/TomCallegari/MarsPy/blob/master/scrape_mars.py)
+* [BeautifulSoup / Splinter](https://github.com/TomCallegari/MarsPy/blob/master/scrape_mars.py)
 * [HTML Page](https://github.com/TomCallegari/MarsPy/blob/master/templates/index.html)
 * [CSS Styling](https://github.com/TomCallegari/MarsPy/blob/master/static/css/main.css)
 
